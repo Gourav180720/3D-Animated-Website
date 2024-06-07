@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "3Danimated_Website_By_Gourav_Portfolio",
+            "request": "launch",
+            "url": "3Danimated_Website_By_Gourav_Portfolio"
+        }
+    ]
+}
